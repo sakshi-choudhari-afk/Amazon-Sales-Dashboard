@@ -28,9 +28,9 @@ The dashboard helps analyze sales performance, products, categories, locations, 
 The project uses Amazon sales data containing information related to sales, products, categories, locations, payment methods, and order status.
 
 ## Dashboard Preview
-
-![Amazon Sales Dashboard](Amazon_Sales_Dashboard.png)
-
+# Project 
+https://github.com/sakshi-choudhari-afk/Amazon-Sales-Dashboard/blob/main/Amazon_sales_data--2025.xlsx
+Screenshort of dashboard
 https://github.com/sakshi-choudhari-afk/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard%20---Final.png
 
 ## Project File
