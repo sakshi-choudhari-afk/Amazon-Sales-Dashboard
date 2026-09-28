@@ -1,10 +1,12 @@
-# Amazon-Sales-Dashboard
+# Amazon Sales Dashboard
 
 ## Project Overview
-An interactive Amazon Sales Dashboard created using Microsoft Excel
-to analyze sales performance and identify key business trends.
 
-## Tools Used
+This project is an interactive Amazon Sales Dashboard created using Microsoft Excel. 
+The dashboard helps analyze sales performance, products, categories, locations, payment methods, and order status.
+
+## Tools & Technologies
+
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
@@ -12,21 +14,29 @@ to analyze sales performance and identify key business trends.
 - Excel Formulas
 
 ## Dashboard Features
-- Total Sales
+
+- Total Sales Analysis
 - Sales by Category
 - Sales by Product
 - Sales by Location
 - Payment Method Analysis
 - Order Status Analysis
-- Interactive Slicers
+- Interactive Slicers for filtering data
 
-## Key Insights
-- ...
-- ...
-- ...
+## Dataset
+
+The project uses Amazon sales data containing information related to sales, products, categories, locations, payment methods, and order status.
 
 ## Dashboard Preview
-[Dashboard Screenshot]
+
+The Excel dashboard provides an interactive view of sales performance and business trends.
 
 ## Project File
-Amazon Sales Dashboard Excel file is available in this repository.
+
+The complete Excel dashboard is available in this repository:
+
+**Amazon_sales_data--2025.xlsx**
+
+## Author
+
+**Sakshi Choudhari**
