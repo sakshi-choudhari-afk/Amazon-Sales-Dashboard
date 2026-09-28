@@ -29,7 +29,7 @@ The project uses Amazon sales data containing information related to sales, prod
 
 ## Dashboard Preview
 
-The Excel dashboard provides an interactive view of sales performance and business trends.
+![Amazon Sales Dashboard](Amazon_Sales_Dashboard.png)
 
 ## Project File
 
