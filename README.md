@@ -31,6 +31,8 @@ The project uses Amazon sales data containing information related to sales, prod
 
 ![Amazon Sales Dashboard](Amazon_Sales_Dashboard.png)
 
+https://github.com/sakshi-choudhari-afk/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20Dashboard%20---Final.png
+
 ## Project File
 
 The complete Excel dashboard is available in this repository:
